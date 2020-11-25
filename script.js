@@ -20,5 +20,5 @@ switch (reponse) {
         alert("Vous utilisez un " + reponse);
         break;
     default:
-        alert("L'accessoire est inconnu")
+        alert("L'accessoire est inconnu");
 }
