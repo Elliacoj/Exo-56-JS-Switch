@@ -5,19 +5,19 @@ switch (reponse) {
         alert("Vous utilisez une " + reponse);
         break;
     case "clavier":
-        alert("Vous utilisez une " + reponse);
+        alert("Vous utilisez un " + reponse);
         break;
     case "ordinateur":
-        alert("Vous utilisez une " + reponse);
+        alert("Vous utilisez un " + reponse);
         break;
     case "tapis":
-        alert("Vous utilisez une " + reponse);
+        alert("Vous utilisez un " + reponse);
         break;
     case "imprimante":
         alert("Vous utilisez une " + reponse);
         break;
     case "ondulateur":
-        alert("Vous utilisez une " + reponse);
+        alert("Vous utilisez un " + reponse);
         break;
     default:
         alert("L'accessoire est inconnu")
